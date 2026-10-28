@@ -1,0 +1,8 @@
+langgraph>=0.2.45
+langchain-core>=0.3.15
+langchain-groq>=0.2.1
+langchain-google-genai>=2.0.4
+pydantic>=2.9
+streamlit>=1.39
+python-dotenv>=1.0
+pytest>=8.0
